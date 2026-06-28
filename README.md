@@ -1,0 +1,1 @@
+Example Flutter project structure for ZIP upload.
